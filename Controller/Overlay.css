@@ -1,8 +1,8 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
     background: url(Blue_SkinNo_Buttons.png);
-    height: 598px;
-    width: 806px;
+    height: 1200px;
+    width: 698px;
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }
@@ -31,8 +31,8 @@
 }
 
 .ds4 .bumper {
-    width: 99px;
-    height: 23px;
+    width: 165px;
+    height: 37px;
     background: url(Bumper.png) no-repeat;
     opacity: 0;
 }
@@ -107,8 +107,8 @@ background-position: 0 -70px;
 
 .ds4 .back, .ds4 .start {
     background: url(Start.png);
-    width: 28px;
-    height: 46px;
+    width: 26px;
+    height: 43px;
     opacity: 0;
 }
 
@@ -139,8 +139,8 @@ background-position: 0 -70px;
 
 .ds4 .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+    width: 212px;
+    height: 112px;
     background: url(FaceButtons.png);
 }
 
@@ -182,7 +182,7 @@ background-position: 0 -70px;
 .ds4 .stick {
     position: absolute;
     background: url(Stick.png);
-    height: 94px;
+    height: 268px;
     width: 94px;
 }
 
