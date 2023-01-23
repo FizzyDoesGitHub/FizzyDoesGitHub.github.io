@@ -9,6 +9,8 @@
 
 .ds4.disconnected {
     background: url(disconnected.png);
+    height: 598px;
+    width: 806px;
 }
 
 .ds4.disconnected div {
